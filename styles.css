@@ -42,7 +42,7 @@ body {
     background: hsl(225, 100%, 98%);
     display: flex;
     justify-content: space-around;
-    margin-bottom:  15px;
+    margin-bottom: 25px;
     padding: 10px;
 }
 
@@ -85,7 +85,7 @@ a:hover {
     border: none;
     color: hsl(224, 23%, 55%);
     font-weight: 600;
-    margin-top: 10px;
+    margin-top: 20px;
     padding: 12px 30px;
     width: 100%;
 }
